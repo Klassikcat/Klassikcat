@@ -12,7 +12,11 @@
 - CNN(Convolutional Neural Network)
 - Graphs
 - Mathematics/Stastics
+- Visualization
 
 ### Skills
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=20px> <img src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" width=20px> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width=20px>
+#### skilled
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=20px> <img src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" width=20px> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width=20px> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width=20px> <img src="https://numpy.org/images/logos/numpy.svg" width=20px> 
 
+#### beginner level
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" height=20px> <img src="https://www.vhv.rs/dpng/d/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files.png" width=20px> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width=20px>
