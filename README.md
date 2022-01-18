@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Klassikcat&fontSize=90&desc=def%20forward(self)&descAlignY=60&textBg=False&fontAlign=70&descAlign=85&fontAlignY=40)
 <div align="center">
   
-
+  [![Klassikcat's GitHub stats](https://github-readme-stats.vercel.app/api?username=klassikcat)](https://github.com/anuraghazra/github-readme-stats)
   
   <img alt="Vim" src ="https://img.shields.io/badge/Vim-019733.svg?&style=for-the-badge&logo=Vim&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
 
@@ -9,7 +9,6 @@
 
   <p />
   
-  [![Klassikcat's GitHub stats](https://github-readme-stats.vercel.app/api?username=klassikcat)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
