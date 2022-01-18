@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Klassikcat&fontSize=90&desc=def%20forward(self)&descAlignY=60&textBg=False&fontAlign=70&descAlign=85&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jeongtae%20Shin&fontSize=80&desc=def%20Klassikcat(self)&descAlignY=60&textBg=False&fontAlign=65&descAlign=85&fontAlignY=40)
 <div align="center">
   
   [![Klassikcat's GitHub stats](https://github-readme-stats.vercel.app/api?username=klassikcat)](https://github.com/anuraghazra/github-readme-stats)
