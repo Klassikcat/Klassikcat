@@ -3,13 +3,11 @@
   <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/> <img alt="PyTorch" src ="https://img.shields.io/badge/Lightning-792EE5.svg?&style=for-the-badge&logo=PyTorch Lightning&logoColor=white"/> <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-3E8E84.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/> <img alt="numpy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white"/> <img alt="tensorrt" src ="https://img.shields.io/badge/TensorRT-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/> <img alt="triton" src ="https://img.shields.io/badge/Triton-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2012%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 241 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -49,5 +47,5 @@ Mac                      16 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/05/2024 16:12:31 UTC
+ Last Updated on 28/05/2024 18:36:58 UTC
 <!--END_SECTION:waka-->
