@@ -3,13 +3,13 @@
   <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/> <img alt="PyTorch" src ="https://img.shields.io/badge/Lightning-792EE5.svg?&style=for-the-badge&logo=PyTorch Lightning&logoColor=white"/> <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-3E8E84.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/> <img alt="numpy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white"/> <img alt="tensorrt" src ="https://img.shields.io/badge/TensorRT-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/> <img alt="triton" src ="https://img.shields.io/badge/Triton-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2012%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 247 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -33,21 +33,21 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   21 hrs 46 mins      █████████████████████░░░░   83.92 % 
-YAML                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Docker                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Git Config               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Scala                    30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Python                   17 hrs 57 mins      ███████████████████░░░░░░   75.76 % 
+YAML                     1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Jupyter                  1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Docker                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Kotlin                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 14 mins      ████████████████████████░   97.29 % 
-Intellijidea             42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+VS Code                  21 hrs 25 mins      ███████████████████████░░   90.34 % 
+Intellijidea             2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
 
 💻 Operating System: 
-Linux                    24 hrs 56 mins      ████████████████████████░   96.18 % 
-Mac                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Linux                    21 hrs 7 mins       ██████████████████████░░░   89.14 % 
+Mac                      2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
 ```
 
 
- Last Updated on 05/06/2024 15:05:27 UTC
+ Last Updated on 06/06/2024 15:05:33 UTC
 <!--END_SECTION:waka-->
