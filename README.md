@@ -1,6 +1,19 @@
 :rocket: **Faster than Light, Lighter than Feather.** 🌩️
 
-  <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/> <img alt="PyTorch" src ="https://img.shields.io/badge/Lightning-792EE5.svg?&style=for-the-badge&logo=PyTorch Lightning&logoColor=white"/> <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-3E8E84.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/> <img alt="numpy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white"/> <img alt="tensorrt" src ="https://img.shields.io/badge/TensorRT-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/> <img alt="triton" src ="https://img.shields.io/badge/Triton-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/>
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
+### ML Framework
+<img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/> <img alt="numpy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white"/>
+
+### Serving
+<img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-3E8E84.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/> <img alt="tensorrt" src ="https://img.shields.io/badge/TensorRT-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/>
+
+### CI
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS Cloudformation](https://img.shields.io/badge/Cloudformation-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2022%20mins-blue)
