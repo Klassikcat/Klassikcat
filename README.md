@@ -10,7 +10,7 @@
 ### Serving
 <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-3E8E84.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/> <img alt="tensorrt" src ="https://img.shields.io/badge/TensorRT-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/>
 
-### CI
+### CI/CD
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS Cloudformation](https://img.shields.io/badge/Cloudformation-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
