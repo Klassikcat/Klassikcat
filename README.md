@@ -17,7 +17,7 @@
 ## Code Details
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-430%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-430%20hrs%203%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -63,5 +63,5 @@ Mac                      7 hrs 22 mins       ██████████░�
 ```
 
 
- Last Updated on 10/06/2024 15:38:09 UTC
+ Last Updated on 11/06/2024 15:06:06 UTC
 <!--END_SECTION:waka-->
