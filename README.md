@@ -27,6 +27,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 261 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 84 Public Repositories 
@@ -66,5 +68,5 @@ Mac                      8 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/06/2024 15:06:40 UTC
+ Last Updated on 24/06/2024 15:07:14 UTC
 <!--END_SECTION:waka-->
