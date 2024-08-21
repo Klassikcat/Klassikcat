@@ -5,7 +5,7 @@
 
 
 ### ML Framework
-<img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/> ![Lightning](https://img.shields.io/badge/lightning-792EE5.svg?style=for-the-badge&logo=lightning&logoColor=white) <img alt="numpy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white"/> 
+<img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/> ![Lightning](https://img.shields.io/badge/lightning-792EE5.svg?style=for-the-badge&logo=lightning&logoColor=white) <img alt="numpy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white"/> ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
 
 ### DB
 <img alt="milvus" src ="https://img.shields.io/badge/milvus-00A1EA.svg?&style=for-the-badge&logo=milvus&logoColor=white"/> <img alt="mariadb" src ="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
@@ -15,10 +15,11 @@
 <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-3E8E84.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/> <img alt="tensorrt" src ="https://img.shields.io/badge/TensorRT-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/> <img alt="tensorrt" src ="https://img.shields.io/badge/Onnx-005CED.svg?&style=for-the-badge&logo=onnx&logoColor=white"/>
 
 ### CI/CD
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 
 ### Infrastructure
-![AWS Cloudformation](https://img.shields.io/badge/AWS_Cloudformation-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS Cloudformation](https://img.shields.io/badge/AWS_Cloudformation-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
 
 
 ## Code Details
