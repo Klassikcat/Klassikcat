@@ -12,7 +12,7 @@
 
 
 ### Serving
-<img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-3E8E84.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/> <img alt="triton" src ="https://img.shields.io/badge/triton-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/> <img alt="tensorrt" src ="https://img.shields.io/badge/Onnx-005CED.svg?&style=for-the-badge&logo=onnx&logoColor=white"/> <img alt="tensorrt" src ="https://img.shields.io/badge/TensorRT-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-3E8E84.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/> <img alt="triton" src ="https://img.shields.io/badge/triton-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/> <img alt="tensorrt" src ="https://img.shields.io/badge/Onnx-005CED.svg?&style=for-the-badge&logo=onnx&logoColor=white"/> ![tensorrt](https://img.shields.io/badge/tensorrt-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
 ### CI/CD
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
