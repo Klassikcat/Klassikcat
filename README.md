@@ -4,21 +4,13 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
-### ML Framework
-<img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/> ![Lightning](https://img.shields.io/badge/lightning-792EE5.svg?style=for-the-badge&logo=lightning&logoColor=white) <img alt="numpy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white"/> ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
-
-### DB
-<img alt="milvus" src ="https://img.shields.io/badge/milvus-00A1EA.svg?&style=for-the-badge&logo=milvus&logoColor=white"/> <img alt="mariadb" src ="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
+### ML
+<img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/> ![Lightning](https://img.shields.io/badge/lightning-792EE5.svg?style=for-the-badge&logo=lightning&logoColor=white) <img alt="numpy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white"/> ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) <img alt="triton" src ="https://img.shields.io/badge/triton-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/> <img alt="tensorrt" src ="https://img.shields.io/badge/Onnx-005CED.svg?&style=for-the-badge&logo=onnx&logoColor=white"/> ![tensorrt](https://img.shields.io/badge/tensorrt-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
 
-### Serving
-<img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-3E8E84.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/> <img alt="triton" src ="https://img.shields.io/badge/triton-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/> <img alt="tensorrt" src ="https://img.shields.io/badge/Onnx-005CED.svg?&style=for-the-badge&logo=onnx&logoColor=white"/> ![tensorrt](https://img.shields.io/badge/tensorrt-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+### Infra & CI/CD
 
-### CI/CD
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-
-### Infrastructure
-![AWS Cloudformation](https://img.shields.io/badge/AWS_Cloudformation-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS Cloudformation](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 
 
