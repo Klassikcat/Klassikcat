@@ -5,7 +5,7 @@
 
 
 ### ML
-<img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/> ![Lightning](https://img.shields.io/badge/lightning-792EE5.svg?style=for-the-badge&logo=lightning&logoColor=white) <img alt="numpy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white"/> ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) <img alt="triton" src ="https://img.shields.io/badge/triton-76B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/> <img alt="tensorrt" src ="https://img.shields.io/badge/Onnx-005CED.svg?&style=for-the-badge&logo=onnx&logoColor=white"/> ![tensorrt](https://img.shields.io/badge/tensorrt-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+<img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/> <img alt="numpy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white"/> ![tensorrt](https://img.shields.io/badge/tensorrt_&_triton-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
 
 ### Infra & CI/CD
