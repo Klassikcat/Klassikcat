@@ -5,4 +5,13 @@
   ![PyTorch](https://img.shields.io/badge/torch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![nVIDIA](https://img.shields.io/badge/triton-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Kubernetes](https://img.shields.io/badge/k8s-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 <!--START_SECTION:waka-->
+
+```txt
+YAML         4 hrs 21 mins   ██████████▒░░░░░░░░░░░░░░   41.46 %
+Terraform    3 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   31.04 %
+HCL          1 hr 51 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
+Markdown     25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+```
+
 <!--END_SECTION:waka-->
