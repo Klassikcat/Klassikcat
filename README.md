@@ -17,6 +17,6 @@ Markdown     20 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### Socials(Click to Visit)
+### 🌐 Socials(Click to Visit)
 
 <a href="https://medium.com/@shinjeongtae">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a> <a href="https://www.linkedin.com/in/jungtae-shin-3137781a8/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
