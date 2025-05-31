@@ -16,8 +16,9 @@
 #### **ML Frameworks & Libraries**
 ![PyTorch](https://img.shields.io/badge/torch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Lightning](https://img.shields.io/badge/lightning-%23792EE5.svg?style=for-the-badge&logo=lightning&logoColor=white)
-![wandb](https://img.shields.io/badge/weights%20and%20biases-%23FFBE00.svg?style=for-the-badge&logo=weightsandbiases&logoColor=white)
+![wandb](https://img.shields.io/badge/wandb-%23FFBE00.svg?style=for-the-badge&logo=weightsandbiases&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/tensorrt-%234A7C12.svg?style=for-the-badge&logo=nvidia&logoColor=white)
+![huggingface](https://img.shields.io/badge/hf%20hub-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 
 #### **Serving & Retrieval**
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
