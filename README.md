@@ -7,7 +7,6 @@
 ![PyTorch](https://img.shields.io/badge/torch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Lightning](https://img.shields.io/badge/lightning-%23792EE5.svg?style=for-the-badge&logo=lightning&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/tensorrt-%234A7C12.svg?style=for-the-badge&logo=nvidia&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Triton Inference Server](https://img.shields.io/badge/triton-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
   
 <!--START_SECTION:waka-->
