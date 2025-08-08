@@ -6,6 +6,8 @@
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/torch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/tensorrt-%234A7C12.svg?style=for-the-badge&logo=nvidia&logoColor=white)
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+
   
 <!--START_SECTION:waka-->
 
