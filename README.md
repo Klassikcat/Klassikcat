@@ -1,7 +1,7 @@
 > :rocket: **Faster than Light, Lighter than Feather.** 🌩️
 
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Golang](https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/torch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
